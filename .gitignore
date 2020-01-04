@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+.vscode/
+sdl2-config
 
 # Object files
 *.o
